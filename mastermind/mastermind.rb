@@ -59,6 +59,7 @@ class Mastermind
           index = sc.index(c)
           sc.slice!(index)
           sc.insert(index, ' ')
+          index = user_guess.index(c)
           user_guess.slice!(index)
           user_guess.insert(index, '_')
         end
