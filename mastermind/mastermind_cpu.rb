@@ -82,9 +82,10 @@ class MastermindCpu
       code.split("").each do |c|
         if (sc.include? c)
           data += 'W'
-          index = sc.index(c)
+          index = code.index(c)
           code.slice!(index)
           code.insert(index, ' ')
+          index = sc.index(c)
           sc.slice!(index)
           sc.insert(index, '_')
         end
