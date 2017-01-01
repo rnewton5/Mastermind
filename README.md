@@ -18,7 +18,7 @@ see [Wikipedia](https://en.wikipedia.org/wiki/Mastermind_(board_game)#Gameplay_a
 ----
 ##How to run the program
 1. Make sure you have [Ruby](https://www.ruby-lang.org/en/documentation/installation/) on your computer.
-2. In the terminal type, "ruby <path>/application.rb
+2. In the terminal type, "ruby (path-to-directory)/application.rb
 
 ----
 ##Notes
