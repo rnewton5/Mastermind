@@ -1,4 +1,4 @@
-#Mastermind
+# Mastermind
 
 A console application version of the [Mastermind boardgame](https://en.wikipedia.org/wiki/Mastermind_(board_game)). Written in Ruby.
 
@@ -16,10 +16,6 @@ see [Wikipedia](https://en.wikipedia.org/wiki/Mastermind_(board_game)#Gameplay_a
 5. If the code breaker gets presented with all black pegs, the game is over and the code breaker has won. If all 12 guesses are used up, the game is over and the code maker has won.
 
 ----
-##How to run the program
+## How to run the program
 1. Make sure you have [Ruby](https://www.ruby-lang.org/en/documentation/installation/) on your computer.
 2. In the terminal type, "ruby (path-to-directory)/application.rb
-
-----
-##Notes
-This program was written by Rhett Newton (rnewton5) as part of [The Odin Project's Curriculum](http://www.theodinproject.com/home).
